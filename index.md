@@ -13,7 +13,7 @@ Paper link: [arXiv](Not Available so far ...)
 ## Any-to-Many VC Demo (10 utterances randomly chosen from the test set)
 ### Female (clb) to Male (bdl)
 
-| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |**Text-VC**|
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** | **Text-VC** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-many/bne-seq2seqmol/clb_to_bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/seq2seqPR-durian/wav_clb_to_bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/ppg-vc/clb-to-bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/non-para-seq2seq/clb-to-bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> |<audio src="wavs/any-to-many/text-vc/clb-to-bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Paper link: [arXiv](Not Available so far ...)
 
 ### Female (clb) to Female (slt)
 
-| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |**Text-VC**|
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** | **Text-VC** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-many/bne-seq2seqmol/clb_to_slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/seq2seqPR-durian/wav_clb_to_slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/ppg-vc/clb-to-slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/non-para-seq2seq/clb-to-slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> |<audio src="wavs/any-to-many/text-vc/clb-to-slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Paper link: [arXiv](Not Available so far ...)
 
 ### Male (rms) to Male (bdl)
 
-| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |**Text-VC**|
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** | **Text-VC** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs/recordings/rms/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-many/bne-seq2seqmol/rms_to_bdl/rms_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/seq2seqPR-durian/wav_rms_to_bdl/rms_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/ppg-vc/rms-to-bdl/rms_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/non-para-seq2seq/rms_to_bdl/rms_arctic_a0015_to_bdl.wav" controls preload></audio> |<audio src="wavs/any-to-many/text-vc/rms-to-bdl/rms_arctic_a0015_to_bdl.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -88,7 +88,7 @@ Paper link: [arXiv](Not Available so far ...)
 
 ### Male (rms) to  Female (slt)
 
-| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |**Text-VC**|
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** | **Text-VC** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs/recordings/rms/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-many/bne-seq2seqmol/rms_to_slt/rms_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/seq2seqPR-durian/wav_rms_to_slt/rms_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/ppg-vc/rms-to-slt/rms_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/non-para-seq2seq/rms-to-slt/rms_arctic_a0015_to_slt.wav" controls preload></audio> | <audio src="wavs/any-to-many/text-vc/rms-to-slt/rms_arctic_a0015_to_slt.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- | --- |
